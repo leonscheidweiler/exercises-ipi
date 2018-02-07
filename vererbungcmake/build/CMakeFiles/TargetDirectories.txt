@@ -1,0 +1,3 @@
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/build/CMakeFiles/rebuild_cache.dir
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/build/CMakeFiles/edit_cache.dir
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/build/CMakeFiles/main.dir

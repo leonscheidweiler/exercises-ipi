@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/main_point_class.cpp
+iostream
+-
+point2d.hpp
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/point2d.hpp
+point3d.hpp
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/point3d.hpp
+
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/point2d.cpp
+iostream
+-
+cmath
+-
+point2d.hpp
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/point2d.hpp
+
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/point2d.hpp
+
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/point3d.cpp
+iostream
+-
+cmath
+-
+point3d.hpp
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/point3d.hpp
+
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/point3d.hpp
+point2d.hpp
+/home/leon/Files/IPI/klausurwiederholung/vererbungcmake/point2d.hpp
+
